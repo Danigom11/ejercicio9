@@ -21,7 +21,6 @@ public class Main {
         System.out.println("Salario: " + trabajador.salario);
     }
 }
-
 class Persona {
     int edad;
     String nombre;
